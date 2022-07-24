@@ -2,7 +2,7 @@
 
 #### Web Developer | MERN Stack Expert |  Tech and Programming Blogger
 
-I'm Jakia from Bangladesh. I am a Frontend Developer. I enjoy learning new technologies, programming languages, and frameworks like React. I also enjoy writiong tech and programming blogs. You can check out me at https://jakia-official.medium.com/ or https://jakia.hashnode.dev/.
+I'm Jakia from Bangladesh. I am a Frontend Developer. I enjoy learning new technologies, programming languages, and frameworks like React. I also enjoy writing tech and programming blogs. You can check out me at https://jakia-official.medium.com/ or https://jakia.hashnode.dev/.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
