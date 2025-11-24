@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jakia
 
-#### Full-Stack Developer | Modern Web Apps & AI-Integrated Systems | Tech Blogger
+#### Full-Stack Developer | Tech Blogger| Modern Web Apps & AI-Integrated Systems 
 
 I’m a full-stack software developer with experience in frontend functionalities, backend APIs, database design, cloud-based deployments and AI-powered systems.
 My work spans React, Next.js, FastAPI, and Node.js and I regularly write about programming concepts and development best practices.
