@@ -37,4 +37,7 @@ I also write about programming concepts, real-world development problems, and te
   
 ## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thejakia1&show_icons=true&locale=en&layout=compact" alt="thejakia1" /></p>
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thejakia1&theme=tokyonight)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thejakia1&theme=tokyonight)
